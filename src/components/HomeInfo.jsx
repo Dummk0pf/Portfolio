@@ -14,13 +14,13 @@ const renderContent = {
         <h1 className='sm:text-xl sm:leading-snug text-center text-white neo-brutalism-blue py-4 px-8 mx-5'>Hi, I am <span className='font-semibold'>Prames</span>👋<br />A Software Engineer from India</h1>
     ),
     2 : (
-        <InfoBox text={"Transformed ideas into fully functional projects, constantly pushing my skills and creativity to the next level."} link="/about" buttonText="Learn more"/>
+        <InfoBox text={"Transformed ideas into fully functional projects, constantly pushing my skills and creativity to the next level."} link="/Portfolio/about" buttonText="Learn more"/>
     ),
     3 : (
-        <InfoBox text={"Continuously exploring new technologies, turning challenges into opportunities to grow and innovate through hands-on experience."} link="/projects" buttonText="Visit my portfolio"/>
+        <InfoBox text={"Continuously exploring new technologies, turning challenges into opportunities to grow and innovate through hands-on experience."} link="/Portfolio/projects" buttonText="Visit my portfolio"/>
     ),
     4 : (
-        <InfoBox text={"Need a project done or looking for a dev? I'm just a few keystrokes away"} link="/contact" buttonText="Let's talk"/>
+        <InfoBox text={"Need a project done or looking for a dev? I'm just a few keystrokes away"} link="/Portfolio/contact" buttonText="Let's talk"/>
     )
 }
 
